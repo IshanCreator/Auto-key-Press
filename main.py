@@ -2,8 +2,8 @@ import pyautogui
 import time
 from pynput import keyboard
 from tkinter import messagebox
-key_to_press = 'right'
-interval = 6
+key_to_press = 'right'  # Enter your Key 
+interval = 6  # Enter your time interval
 running = False
 
 
